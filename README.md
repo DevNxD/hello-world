@@ -1,2 +1,2 @@
 # hello-world
-Trying to get my hed around Git
+Trying to get my head around Git
